@@ -129,8 +129,6 @@ The agent automatically uses Tavily when the key is set.
 | Web Search | DuckDuckGo / Tavily | ✅ Free tier |
 | PDF Reading | pypdf | ✅ Free |
 
----
-
 ## 📄 License
 
 MIT — free to use, extend, and build on.
