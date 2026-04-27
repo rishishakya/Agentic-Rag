@@ -113,22 +113,3 @@ Tavily provides RAG-optimized web search (much better than DuckDuckGo for resear
 2. Get your free API key
 3. Set it: `$env:TAVILY_API_KEY="tvly-..."`
 4. Install: `pip install tavily-python`
-
-The agent automatically uses Tavily when the key is set.
-
----
-
-## 📦 Tech Stack
-
-| Component | Tool | Cost |
-|---|---|---|
-| LLM | Groq (Llama 3.3 70B) | ✅ Free |
-| Agentic Framework | LangGraph | ✅ Free |
-| Vector DB | ChromaDB (local) | ✅ Free |
-| Embeddings | sentence-transformers | ✅ Free |
-| Web Search | DuckDuckGo / Tavily | ✅ Free tier |
-| PDF Reading | pypdf | ✅ Free |
-
-## 📄 License
-
-MIT — free to use, extend, and build on.
