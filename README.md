@@ -8,7 +8,7 @@ An advanced **Agentic RAG (Retrieval-Augmented Generation)** system that goes be
 
 ## 🏗️ Architecture
 
-<img src="architecture.png" width="300"/>
+<img src="architecture.png" width="800"/>
 
 ---
 
