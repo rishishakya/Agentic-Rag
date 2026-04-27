@@ -86,7 +86,7 @@ python main.py "What are the risks in lithium supply chains?" --quiet
 
 ## 📁 Project Structure
 
-<img src="assets/project_structure.png" width="800"/>
+<img src="project_structure.png" width="800"/>
 
 ---
 
