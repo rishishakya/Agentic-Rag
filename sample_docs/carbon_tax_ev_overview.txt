@@ -1,0 +1,59 @@
+Carbon Tax Policy and Electric Vehicle Market: 2024-2026 Overview
+================================================================
+
+EXECUTIVE SUMMARY
+-----------------
+Carbon pricing mechanisms, including carbon taxes and cap-and-trade systems, 
+have become central to climate policy in over 70 countries as of 2024. Their 
+interaction with electric vehicle (EV) markets is complex and multidirectional.
+
+CARBON TAX BASICS
+-----------------
+A carbon tax places a direct price on greenhouse gas emissions, typically 
+measured in dollars per metric ton of CO2 equivalent. As of 2024:
+- Canada's carbon price: CAD $65/tonne, rising to $170 by 2030
+- European Union ETS price: ~€60-70/tonne
+- UK carbon price: £40-50/tonne
+
+Higher carbon taxes increase operating costs for ICE (internal combustion 
+engine) vehicles, which directly improves EV competitiveness.
+
+IMPACT ON EV STOCKS
+-------------------
+Companies like Tesla (TSLA), Rivian (RIVN), BYD, and legacy automakers 
+transitioning to EVs (GM, Ford, Volkswagen) are affected differently:
+
+1. Pure-play EV makers BENEFIT from carbon taxes:
+   - Higher carbon costs make ICE vehicles more expensive to operate
+   - Governments often use carbon tax revenue to fund EV subsidies
+   - EV manufacturers earn carbon credits they can sell (Tesla earned 
+     $1.79B from credit sales in 2023)
+
+2. Legacy automakers face PRESSURE:
+   - Must accelerate EV transition or pay carbon penalties
+   - Stranded asset risk for ICE manufacturing plants
+   - Carbon credits deficit = additional costs
+
+SUPPLY CHAIN CONSIDERATIONS
+----------------------------
+Carbon taxes also affect EV supply chains:
+- Lithium mining: energy-intensive, carbon costs passed to manufacturers
+- Battery manufacturing: significant electricity consumption
+- Steel and aluminum for vehicle bodies: carbon-intensive production
+
+Companies with cleaner supply chains gain competitive advantage under 
+higher carbon pricing regimes.
+
+ANALYST PROJECTIONS 2025-2026
+------------------------------
+Major investment banks project:
+- Global EV sales to reach 25-30% of total auto sales by 2026
+- Carbon tax revenues globally expected to exceed $1 trillion annually by 2030
+- EV stock premium over ICE automakers expected to widen as carbon prices rise
+
+KEY RISKS
+---------
+- Political risk: Carbon tax policies can be reversed (e.g., Australia 2014)
+- Consumer adoption slower than projected in some markets
+- Raw material shortages (lithium, cobalt, nickel) could constrain EV growth
+- Grid infrastructure insufficient in developing markets

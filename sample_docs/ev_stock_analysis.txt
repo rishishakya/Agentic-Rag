@@ -1,0 +1,71 @@
+Electric Vehicle Stock Analysis — Investor Research Note
+=========================================================
+
+MARKET OVERVIEW (2024)
+-----------------------
+The global EV market reached approximately $500B in market capitalization 
+across pure-play and transitioning manufacturers. Key players:
+
+TESLA (TSLA)
+- Market cap: ~$700-800B (volatile)
+- Revenue: $97.7B (FY2023)
+- Profit margins under pressure from price cuts
+- Carbon credit revenue: $1.79B (significant buffer)
+- Risk: Increased competition from Chinese manufacturers
+
+BYD (BYDDF)
+- Overtook Tesla in global EV unit sales in Q4 2023
+- Strong position in Chinese market (largest EV market globally)
+- Vertically integrated: makes own batteries (Blade Battery)
+- Lower margin but higher volume strategy
+
+RIVIAN (RIVN)
+- Commercial van partnership with Amazon (100,000 vans ordered)
+- Production ramp challenges in 2023-2024
+- High cash burn rate — needs capital markets access
+
+LEGACY AUTOMAKERS
+-----------------
+General Motors (GM):
+- Committed $35B to EV/AV through 2025
+- Ultium platform as foundation
+- Delayed several EV launches due to cost concerns
+
+Ford (F):
+- Model e division losing ~$3B annually during transition
+- F-150 Lightning gaining commercial fleet traction
+- Maintained ICE profitability funding EV transition
+
+Volkswagen Group:
+- ID series gaining European market share
+- PowerCo battery subsidiary targeting €20B revenue by 2030
+- Carbon compliance pressure in EU driving urgency
+
+CARBON CREDIT MARKET DYNAMICS
+-------------------------------
+Under California's ZEV mandate and EU regulations:
+- EV manufacturers earn credits for zero-emission vehicle sales
+- These credits can be sold to ICE manufacturers who miss quotas
+- Tesla's carbon credit windfall: total $9B+ since 2009
+- As regulations tighten in 2025-2026, credit prices may rise
+
+INVESTMENT THESIS
+-----------------
+Bull case for EV stocks under rising carbon taxes:
+1. Operating cost advantage of EVs widens (electricity vs gasoline)
+2. Government subsidy programs funded by carbon revenues
+3. Regulatory pressure forces ICE-to-EV fleet transitions
+4. Carbon credit income stream grows for pure-play EV makers
+
+Bear case:
+1. Higher energy costs affect EV manufacturing too
+2. Consumer price sensitivity limits demand growth
+3. Infrastructure gaps (charging networks) slow adoption
+4. Chinese competition compresses margins globally
+
+VALUATION METRICS (2024)
+-------------------------
+- EV market historically valued on revenue multiples (not P/E)
+- Industry average: 3-8x forward revenue for growth-stage EV makers
+- Profitability becoming more important as growth rates normalize
+- Cash burn rate critical for pre-profit companies (Rivian, Lucid)
