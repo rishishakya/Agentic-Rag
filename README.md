@@ -126,7 +126,11 @@ Tavily provides RAG-optimized web search (much better than DuckDuckGo for resear
 | Web Search | DuckDuckGo / Tavily | ✅ Free tier |
 | PDF Reading | pypdf | ✅ Free |
 
+---
 
+## 📊  Result
+
+<img src="result.png" width="1000"/>
 
 
 
