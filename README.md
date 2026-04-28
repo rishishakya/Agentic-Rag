@@ -130,7 +130,7 @@ Tavily provides RAG-optimized web search (much better than DuckDuckGo for resear
 
 ## 📊  Result
 
-<img src="result.png" width="1000"/>
+<img src="result.png" width="1500"/>
 
 
 
